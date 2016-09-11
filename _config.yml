@@ -1,0 +1,14 @@
+# Site settings
+title: Jekyll Blog for Designers
+description: "Jekyll Blog for Designers. This site is designed to present my Jekyll blogging platform to designers in a clear, concise way, and provide a resource and reference for those that are new to Jekyll."
+baseurl: "/jekblog" 
+url: "http://donirby.github.io/jekblog" 
+tagline: A basic guide to Jekyll
+
+# Build settings
+markdown: kramdown
+kramdown:
+    auto_ids: false
+paginate: 4
+paginate_path: '/blog/page:num/'
+permalink: /blog/:title
