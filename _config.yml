@@ -1,8 +1,8 @@
 # Site settings
 title: Jekyll Blog for Designers
 description: "Jekyll Blog for Designers. This site is designed to present my Jekyll blogging platform to designers in a clear, concise way, and provide a resource and reference for those that are new to Jekyll."
-baseurl: "/jekblog" 
-url: "http://donirby.github.io/jekblog" 
+baseurl: "/jekyll-for-designers-don-irby" 
+url: "http://donirby.github.io/jekyll-for-designers-don-irby" 
 tagline: A basic guide to Jekyll
 
 # Build settings
